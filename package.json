@@ -1,0 +1,14 @@
+{
+  "name": "cookie-extension",
+  "version": "1.0.0",
+  "description": "extension cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-cookie": "^3.0.5"
+  }
+}
